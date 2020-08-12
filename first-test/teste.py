@@ -1,5 +1,3 @@
-#C:\Users\Jeremias\Desktop\operadriver_win64
-
 from selenium import webdriver
 
 browser = webdriver.Chrome(executable_path=r"C:\chromeselenium\chromedriver.exe")
